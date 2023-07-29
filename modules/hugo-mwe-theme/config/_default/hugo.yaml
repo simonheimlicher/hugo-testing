@@ -1,0 +1,4 @@
+title: 'modules/hugo-mwe-theme/config/hugo.yaml defined this site title'
+params:
+  description: hugo-mwe-theme description
+  details: hugo-mwe-theme details
